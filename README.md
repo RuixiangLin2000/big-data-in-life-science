@@ -1,3 +1,28 @@
+# 生命科学中的大数据（Big Data in Life Science）
+
+## 中文内容（Chinese Content）
+
+这是一个经过匿名化处理的双语课程知识库，整理生命科学大规模数据分析所需的计算方法。
+
+## 开始阅读（Start Here）
+
+- [课程总览（Course Overview）](notes/00-course-overview.md)
+- [完整笔记目录（Complete Notes Index）](notes/README.md)
+- [作业学习指南（Assignment Study Guides）](assignments/README.md)
+- [Seminar 阅读指南（Seminar Reading Guides）](seminars/README.md)
+- [考试复习（Exam-Oriented Review）](notes/13-exam-review.md)
+- [资料覆盖审计（Material Coverage Audit）](coverage-audit.md)
+- [术语表（Glossary）](glossary.md)
+- [学习资源（Resources）](resources.md)
+
+课程内容覆盖大数据基础、Linux、Python、Notebook、HPC、SLURM、存储、Spark、基因组学、NGS、云计算、容器、Nextflow、代谢组学、数据驱动化学、机器学习、高内涵成像、深度学习和 AI 辅助科研。
+
+本仓库不会重新分发课件、论文或学生提交，也不会保留姓名、联系方式、用户名、作业编号、房间分配和课程资源标识。
+
+---
+
+## 英文原文（Original English）
+
 # Big Data in Life Science
 
 An anonymized, structured knowledge base derived from course material on computational methods for large-scale life-science data.
