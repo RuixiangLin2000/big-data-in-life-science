@@ -1,14 +1,20 @@
 # Course Notes
 
-Chapter notes will be stored here using numeric prefixes:
+The supplied lecture material has been reorganized into topic-based notes. Personal and administrative information has been removed.
 
-- `01-introduction.md`
-- `02-biological-data-and-databases.md`
-- `03-preprocessing-and-quality-control.md`
-- `04-scalable-computing.md`
-- `05-statistics-and-machine-learning.md`
-- `06-genomics-and-transcriptomics.md`
-- `07-multimodal-and-clinical-data.md`
-- `08-reproducibility-privacy-and-ethics.md`
+1. [Course overview](00-course-overview.md)
+2. [Big-data foundations](01-big-data-foundations.md)
+3. [Linux, Python, and notebooks](02-linux-python-notebooks.md)
+4. [High-performance computing and SLURM](03-hpc-slurm.md)
+5. [Storage, Spark, and QSAR](04-storage-spark-qsar.md)
+6. [Genomics and NGS](05-genomics-ngs.md)
+7. [Cloud computing and containers](06-cloud-containers.md)
+8. [Scientific workflows and Nextflow](07-workflows-nextflow.md)
+9. [Metabolomics](08-metabolomics.md)
+10. [Big data-driven chemistry](09-big-data-chemistry.md)
+11. [Large-scale machine learning](10-machine-learning.md)
+12. [High-content imaging](11-high-content-imaging.md)
+13. [Deep learning for microscopy](12-deep-learning.md)
+14. [Exam-oriented review](13-exam-review.md)
 
-Each note should follow the template defined in the repository README.
+See the [material coverage audit](../coverage-audit.md) for supplied, covered, and likely missing course components.
