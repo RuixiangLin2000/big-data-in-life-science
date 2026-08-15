@@ -1,3 +1,17 @@
+# 科学工作流与 Nextflow（Scientific Workflows and Nextflow）
+
+## 中文导读（Chinese Guide）
+
+科学工作流把任务依赖关系显式化，并支持缓存、失败重试、日志、来源追踪和独立任务并行。不同系统分别侧重消息传输、交互查询或基于文件的可复现批处理。
+
+Nextflow 使用数据流模型：进程通过异步 Channel 交换数据。Queue Channel 发出一系列值，Value Channel 可被重复使用；Executor 可将任务映射到本地、SLURM、云或 Kubernetes。
+
+复现记录应包含输入校验和、代码版本、参数、软件或容器版本、命令、资源申请、日志和输出校验和。常见问题包括隐藏输入、可变镜像标签、输出文件名冲突、未记录随机种子和不安全的缓存复用。
+
+---
+
+## 英文原文（Original English）
+
 # Scientific Workflows and Nextflow
 
 ## Why workflows matter
