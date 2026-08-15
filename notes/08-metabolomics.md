@@ -1,3 +1,17 @@
+# 代谢组学与大数据（Metabolomics and Big Data）
+
+## 中文导读（Chinese Guide）
+
+代谢组学研究受遗传、生理、环境、饮食、药物和微生物组影响的小分子。质谱具有高灵敏度和高通量，核磁共振提供互补的结构信息。
+
+标准流程包括实验设计、样本制备、峰检测、跨样本对齐、空白过滤、质量控制、漂移与批次校正、归一化、统计建模、代谢物注释和通路解释。
+
+主要困难是一个代谢物可能产生多个加合物、同位素和碎片，保留时间和强度会漂移，缺失往往不是随机的，且大量特征无法被确定鉴定。应使用混合质控样本、空白、内标和明确的鉴定置信等级。
+
+---
+
+## 英文原文（Original English）
+
 # Metabolomics and Big Data
 
 Metabolomics studies small molecules influenced by genetics, physiology, environment, diet, medication, and the microbiome.
