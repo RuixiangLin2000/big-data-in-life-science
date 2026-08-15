@@ -1,40 +1,28 @@
 # 代谢组学与大数据（Metabolomics and Big Data）
 
-## 中文导读（Chinese Guide）
+代谢组学研究受遗传、生理、环境、饮食、药物和微生物组影响的小分子。（Metabolomics studies small molecules influenced by genetics, physiology, environment, diet, medication, and the microbiome.）
 
-代谢组学研究受遗传、生理、环境、饮食、药物和微生物组影响的小分子。质谱具有高灵敏度和高通量，核磁共振提供互补的结构信息。
+## 平台与研究类型（Platforms and study types）
 
-标准流程包括实验设计、样本制备、峰检测、跨样本对齐、空白过滤、质量控制、漂移与批次校正、归一化、统计建模、代谢物注释和通路解释。
+质谱提供灵敏、高通量的测量，通常与色谱联用；核磁共振提供互补的结构信息。靶向研究定量预先定义的化合物，非靶向研究检测广泛特征，但鉴定困难。（Mass spectrometry provides sensitive high-throughput measurements, often after chromatographic separation. Nuclear magnetic resonance provides complementary structural information. Targeted studies quantify defined compounds; untargeted studies detect broad feature spaces but face a difficult identification problem.）
 
-主要困难是一个代谢物可能产生多个加合物、同位素和碎片，保留时间和强度会漂移，缺失往往不是随机的，且大量特征无法被确定鉴定。应使用混合质控样本、空白、内标和明确的鉴定置信等级。
+## 典型流程（Typical workflow）
 
----
+1. 设计实验并随机化运行顺序。（Design the experiment and randomize run order.）
+2. 准备样本并采集仪器数据。（Prepare samples and acquire instrument data.）
+3. 检测并解析峰。（Detect and deconvolve peaks.）
+4. 跨样本对齐特征。（Align features across samples.）
+5. 过滤空白并进行质量控制。（Filter blanks and apply quality control.）
+6. 校正漂移与批次效应。（Correct drift and batch effects.）
+7. 归一化并转换。（Normalize and transform.）
+8. 进行统计建模。（Perform statistical modeling.）
+9. 注释或鉴定代谢物。（Annotate or identify metabolites.）
+10. 解释通路并验证发现。（Interpret pathways and validate findings.）
 
-## 英文原文（Original English）
+## 核心挑战（Core challenges）
 
-# Metabolomics and Big Data
+一个代谢物可能产生多个加合物、同位素和碎片；保留时间与强度会漂移；缺失值通常不是随机的；仪器批次可能压过生物信号，且许多特征仍无法鉴定。（One metabolite may create several adducts, isotopes, and fragments. Retention time and intensity drift. Missing values are often non-random. Instrument batches can dominate biology, and many features remain unidentified.）
 
-Metabolomics studies small molecules influenced by genetics, physiology, environment, diet, medication, and the microbiome.
+应使用混合质控、空白、内标、随机进样顺序和明确的接受标准；准确质量匹配不等同于化学身份确认。（Use pooled controls, blanks, internal standards, randomized injection order, and explicit acceptance criteria. Distinguish accurate-mass matches from confirmed identities.）
 
-## Platforms and study types
-
-Mass spectrometry provides sensitive high-throughput measurements, often after chromatographic separation. Nuclear magnetic resonance provides complementary structural information. Targeted studies quantify defined compounds; untargeted studies detect broad feature spaces but face a difficult identification problem.
-
-## Typical workflow
-
-1. Design the experiment and randomize run order.
-2. Prepare samples and acquire instrument data.
-3. Detect and deconvolve peaks.
-4. Align features across samples.
-5. Filter blanks and apply quality control.
-6. Correct drift and batch effects.
-7. Normalize and transform.
-8. Perform statistical modeling.
-9. Annotate or identify metabolites.
-10. Interpret pathways and validate findings.
-
-## Core challenges
-
-One metabolite may create several adducts, isotopes, and fragments. Retention time and intensity drift. Missing values are often non-random. Instrument batches can dominate biology, and many features remain unidentified.
-
-Use pooled controls, blanks, internal standards, randomized injection order, and explicit acceptance criteria. Distinguish accurate-mass matches from confirmed identities. Preserve raw data, workflow parameters, library versions, and annotation confidence.
+保留原始数据、工作流参数、数据库版本和注释置信度。（Preserve raw data, workflow parameters, library versions, and annotation confidence.）
