@@ -1,3 +1,17 @@
+# Linux、Python 与 Notebook（Linux, Python, and Notebooks）
+
+## 中文导读（Chinese Guide）
+
+Linux Shell 是导航文件、运行程序和组合分析步骤的基础。需要掌握目录与文件操作、文本查看与搜索、管道、输入输出重定向、权限、归档和符号链接。
+
+Python 适合数据处理、科学计算和自动化。代码应使用明确的输入输出和小型函数，并通过环境文件记录依赖。
+
+Jupyter Notebook 便于探索和展示，但容易隐藏执行状态。分享前应重启内核并从头运行全部单元，把可复用逻辑移入脚本，记录软件版本与随机种子，并移除密码、令牌、私人路径和可识别数据。
+
+---
+
+## 英文原文（Original English）
+
 # Linux, Python, and Notebooks
 
 ## Linux essentials
