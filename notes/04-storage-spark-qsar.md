@@ -1,3 +1,19 @@
+# 存储、Spark 与 QSAR（Storage, Spark, and QSAR）
+
+## 中文导读（Chinese Guide）
+
+可靠的数据传输可使用 SFTP、rsync 和 Web 下载工具；大文件应使用校验和验证完整性。压缩负责缩小字节流，归档负责把多个文件打包，两者不是同一概念。
+
+存储层级包括内存、节点本地磁盘、共享并行文件系统、对象存储和归档存储。大量小文件可能造成元数据瓶颈。
+
+MapReduce 将记录映射为键值对、按键分组并聚合。Spark 通过分区、延迟执行、DataFrame 和缓存支持分布式分析，但只有在数据或计算确实超过单机能力时才值得使用。
+
+QSAR 将分子描述符与生物活性联系起来。应防止重复结构和同一化学系列泄漏到训练集与测试集两侧，并关注适用域和不确定性。
+
+---
+
+## 英文原文（Original English）
+
 # Storage, Transfer, Spark, and QSAR
 
 ## Reliable data transfer
