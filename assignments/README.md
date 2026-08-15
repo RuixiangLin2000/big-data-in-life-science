@@ -1,3 +1,13 @@
+# 作业指南（Assignments）
+
+## 中文导读（Chinese Guide）
+
+本目录整理三次实践作业的学习目标、流程、提交物和检查清单。它不包含学生提交、完整答案、姓名、用户名、作业编号、课程资源标识、私人路径或原始运行日志。作业日期和规则应始终以当前官方教学平台为准。
+
+---
+
+## 英文原文（Original English）
+
 # Assignments
 
 This section summarizes the learning objectives, workflow, deliverables, and review checklist for the three practical assignments.
