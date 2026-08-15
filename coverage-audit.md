@@ -2,7 +2,7 @@
 
 ## Covered by the supplied set
 
-| Expected topic | Repository note |
+| Expected topic | Repository material |
 |---|---|
 | Course structure | [Course overview](notes/00-course-overview.md) |
 | Big-data concepts | [Foundations](notes/01-big-data-foundations.md) |
@@ -18,23 +18,26 @@
 | High-content imaging | [High-content imaging](notes/11-high-content-imaging.md) |
 | Deep learning | [Deep learning](notes/12-deep-learning.md) |
 | Assessment themes | [Exam review](notes/13-exam-review.md) |
+| Assignment 1 requirements | [NGS on HPC](assignments/assignment-1-ngs.md) |
+| Assignment 2 requirements | [Nextflow](assignments/assignment-2-nextflow.md) |
+| Assignment 3 requirements | [Deep learning](assignments/assignment-3-deep-learning.md) |
 
-## Likely missing or incomplete
+## Materials now available but deliberately not published
 
-- Full NGS assignment handout and data
-- Full metabolomics workflow/container assignment
-- Full deep-learning imaging assignment and lab notebook
-- General lab instructions and submission requirements
+- Student scheduler output from Assignment 1
+- Completed Nextflow workflow files and command record from Assignment 2
+- Completed notebook and group report from Assignment 3
+
+These submissions were used only to understand the assignment structure. Publishing them would expose personal information and ready-to-submit answers.
+
+## Remaining gaps
+
 - Seminar instructions and reading list
 - A reading on AI reasoning or test-time computation referenced by the assessment
-- Detailed Python notebooks and exercises
-- Detailed Spark and MapReduce exercise files
-- Current account/allocation instructions
-- Marking rubrics, solutions, and any official command sheet
 - Complete week-by-week schedule
-
-Some items may have been delivered as live labs rather than PDFs.
+- Official marking rubrics or command sheet, if separate from the supplied assignment material
+- Original lab starter repositories and datasets
 
 ## Privacy and publication decisions
 
-Original PDFs are not uploaded. Personal names, emails, phone numbers, usernames, social handles, and course-specific account identifiers are omitted. Notes paraphrase concepts rather than reproducing slides. Future screenshots must be checked for identifying metadata.
+Original PDFs and student submissions are not uploaded. Personal names, emails, phone numbers, usernames, social handles, scheduler identifiers, platform URLs, and course-specific account or project values are omitted. Notes paraphrase concepts and assignment requirements instead of reproducing slides or solutions.
