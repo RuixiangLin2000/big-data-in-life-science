@@ -2,7 +2,7 @@
 
 ## Covered by the supplied set
 
-| Expected topic | Repository material |
+| Expected component | Repository material |
 |---|---|
 | Course structure | [Course overview](notes/00-course-overview.md) |
 | Big-data concepts | [Foundations](notes/01-big-data-foundations.md) |
@@ -17,27 +17,22 @@
 | Large-scale ML | [Machine learning](notes/10-machine-learning.md) |
 | High-content imaging | [High-content imaging](notes/11-high-content-imaging.md) |
 | Deep learning | [Deep learning](notes/12-deep-learning.md) |
-| Assessment themes | [Exam review](notes/13-exam-review.md) |
-| Assignment 1 requirements | [NGS on HPC](assignments/assignment-1-ngs.md) |
-| Assignment 2 requirements | [Nextflow](assignments/assignment-2-nextflow.md) |
-| Assignment 3 requirements | [Deep learning](assignments/assignment-3-deep-learning.md) |
+| Example examination | [Exam review](notes/13-exam-review.md) |
+| Assignment 1 | [NGS on HPC](assignments/assignment-1-ngs.md) |
+| Assignment 2 | [Nextflow](assignments/assignment-2-nextflow.md) |
+| Assignment 3 | [Deep learning](assignments/assignment-3-deep-learning.md) |
+| Mandatory seminar and paper | [AI Co-PI seminar](seminars/ai-co-pi.md) |
 
-## Materials now available but deliberately not published
+## Available but deliberately not published
 
-- Student scheduler output from Assignment 1
-- Completed Nextflow workflow files and command record from Assignment 2
-- Completed notebook and group report from Assignment 3
-
-These submissions were used only to understand the assignment structure. Publishing them would expose personal information and ready-to-submit answers.
+Student scheduler output, completed workflow files, completed notebook, group report, original lecture PDFs, examination PDF, and the seminar article are not redistributed. They were used only to understand the course structure and concepts.
 
 ## Remaining gaps
 
-- Seminar instructions and reading list
-- A reading on AI reasoning or test-time computation referenced by the assessment
 - Complete week-by-week schedule
-- Official marking rubrics or command sheet, if separate from the supplied assignment material
+- Any official marking rubrics or command sheet that exist separately
 - Original lab starter repositories and datasets
 
 ## Privacy and publication decisions
 
-Original PDFs and student submissions are not uploaded. Personal names, emails, phone numbers, usernames, social handles, scheduler identifiers, platform URLs, and course-specific account or project values are omitted. Notes paraphrase concepts and assignment requirements instead of reproducing slides or solutions.
+Personal names, emails, phone numbers, usernames, social handles, room assignments, attendance data, scheduler identifiers, platform URLs, and course-specific project values are omitted. Notes paraphrase concepts and requirements instead of reproducing slides, papers, assessments, or solutions.
