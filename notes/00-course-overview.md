@@ -1,46 +1,28 @@
 # 课程总览（Course Overview）
 
-## 中文导读（Chinese Guide）
+## 范围（Scope）
 
-本课程把生命科学问题与大规模数据处理方法联系起来，覆盖 Linux、Python、Jupyter Notebook、高性能计算、SLURM、数据存储与传输、Spark、基因组学、云计算、容器、科学工作流、代谢组学、机器学习、高内涵成像和深度学习。
+本课程将生命科学问题与处理超出普通工作站能力的大规模、快速、异构或高计算需求数据的方法联系起来。（The course connects life-science questions with practical methods for handling data that are too large, fast, heterogeneous, or computationally demanding for a single conventional workstation.）
 
-课程的三个实践主线分别是：在计算集群上完成 NGS 分析；使用工作流和容器完成代谢组学处理；使用 GPU 对高内涵成像数据进行深度学习。课程还包括 Seminar 和笔试。
+## 主要学习模块（Main learning blocks）
 
-公开版本已移除姓名、联系方式、用户名、课程计算资源编号及其他可识别信息，原始课件也不会在此重新分发。
+1. Linux Shell、Python 与 Notebook（Linux shell, Python, and notebooks）
+2. 高性能计算、批处理系统与 SLURM（High-performance computing, batch systems, and SLURM）
+3. 存储、传输、压缩与 Apache Spark（Storage, transfer, compression, and Apache Spark）
+4. 基因组学与下一代测序（Genomics and next-generation sequencing）
+5. 云计算、虚拟机、容器与编排（Cloud computing, virtual machines, containers, and orchestration）
+6. 科学工作流与 Nextflow（Scientific workflows and Nextflow）
+7. 代谢组学与数据密集型化学（Metabolomics and data-intensive chemistry）
+8. 机器学习与高内涵成像（Machine learning and high-content imaging）
+9. 用于显微图像的深度学习（Deep learning for microscopy images）
+10. 可复现性、数据来源、隐私与负责任分析（Reproducibility, provenance, privacy, and responsible analysis）
 
----
+## 现有资料体现的考核结构（Assessment pattern represented in the supplied material）
 
-## 英文原文（Original English）
+资料显示课程包含三个实践模块：计算集群上的 NGS 分析；使用工作流和容器的代谢组学分析；以及使用 GPU 对高内涵成像数据进行深度学习。（The material points to three applied blocks: NGS analysis on a compute cluster; metabolomics analysis with workflows and containers; and deep learning on high-content imaging data with GPU support.）
 
-# Course Overview
+资料还提到 Seminar 和笔试。（It also refers to a seminar and written examination.）
 
-## Scope
+## 隐私说明（Privacy note）
 
-The course connects life-science questions with practical methods for handling data that are too large, fast, heterogeneous, or computationally demanding for a single conventional workstation.
-
-## Main learning blocks
-
-1. Linux shell, Python, and notebooks
-2. High-performance computing, batch systems, and SLURM
-3. Storage, transfer, compression, and Apache Spark
-4. Genomics and next-generation sequencing
-5. Cloud computing, virtual machines, containers, and orchestration
-6. Scientific workflows and Nextflow
-7. Metabolomics and data-intensive chemistry
-8. Machine learning and high-content imaging
-9. Deep learning for microscopy images
-10. Reproducibility, provenance, privacy, and responsible analysis
-
-## Assessment pattern represented in the supplied material
-
-The material points to three applied blocks:
-
-- NGS analysis on a compute cluster
-- Metabolomics analysis with workflows and containers
-- Deep learning on high-content imaging data with GPU support
-
-It also refers to a seminar and written examination. Detailed assignment handouts and seminar material were not included in the supplied set.
-
-## Privacy note
-
-These notes intentionally omit personal names, email addresses, telephone numbers, usernames, project membership details, and other identifying information. Original slide decks are not redistributed here.
+这些笔记有意省略个人姓名、电子邮件地址、电话号码、用户名、课程项目成员信息及其他可识别信息，原始课件不会在此重新分发。（These notes intentionally omit personal names, email addresses, telephone numbers, usernames, project membership details, and other identifying information. Original slide decks are not redistributed here.）
