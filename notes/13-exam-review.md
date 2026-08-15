@@ -1,3 +1,17 @@
+# 考试复习（Exam-Oriented Review）
+
+## 中文导读（Chinese Guide）
+
+本页把样题涉及的主题重组为复习框架，不包含个人或行政信息。
+
+训练时扩展通过增加模型、数据或训练计算来改善能力；测试时或推理时扩展则在问题提出后增加计算，例如生成多个候选、分解步骤、搜索推理树、反思修订、检索资料、调用工具或协调多个智能体。参数可以保持不变，但系统会投入更多计算来筛选答案。
+
+其他复习主题包括大数据五个维度、节点本地临时存储、数据传输与压缩、MapReduce、基因组学、云与容器、科学工作流、高内涵成像和深度学习过拟合。每个主题都应准备定义、生命科学实例、权衡和失败模式。
+
+---
+
+## 英文原文（Original English）
+
 # Exam-Oriented Review
 
 This page converts themes from the supplied example assessment into original study prompts and omits all personal or administrative information.
