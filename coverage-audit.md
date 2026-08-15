@@ -1,3 +1,17 @@
+# 资料覆盖审计（Material Coverage Audit）
+
+## 中文内容（Chinese Content）
+
+现有资料已经覆盖课程总览、大数据基础、Linux/Python、HPC/SLURM、存储/Spark/QSAR、基因组学/NGS、云与容器、Nextflow、代谢组学、数据驱动化学、机器学习、高内涵成像、深度学习、考试、三次作业和必修 Seminar。
+
+学生调度日志、完整工作流、Notebook、小组报告、课件、考试 PDF 和 Seminar 论文不会在仓库中重新分发。
+
+不再补充的资料包括完整周计划、可能独立存在的评分标准或命令速查表，以及原始实验 starter repositories 和数据集。公开内容已经移除个人信息、课程账户标识、平台地址和可直接提交的答案。
+
+---
+
+## 英文原文（Original English）
+
 # Material Coverage Audit
 
 ## Covered by the supplied set
