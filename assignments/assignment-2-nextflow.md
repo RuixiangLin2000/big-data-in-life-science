@@ -1,3 +1,17 @@
+# 作业 2：使用 Nextflow 构建科学工作流（Assignment 2: Scientific Workflows with Nextflow）
+
+## 中文导读（Chinese Guide）
+
+作业分为两部分：第一部分把现有 XCMS 工作流中的峰宽、噪声和极性等值移动到配置和命令行参数；第二部分从零构建四阶段 OpenMS 工作流。
+
+四个阶段依次为特征检测、全体特征文件对齐、特征链接和表格导出。这里重点考查 File Channel、Queue/Value Channel、重复参数输入、collect、输入输出声明、资源指令、执行配置、容器、缓存恢复和最终结果发布。
+
+调试时应先检查 Channel 形状和生成的命令，明确某一步是按文件运行还是对完整集合运行，并避免输出冲突。公开页面不包含学生完成的 Nextflow 代码、课程路径或资源编号。
+
+---
+
+## 英文原文（Original English）
+
 # Assignment 2: Scientific Workflows with Nextflow
 
 ## Goal
