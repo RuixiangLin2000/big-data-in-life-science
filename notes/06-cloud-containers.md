@@ -1,3 +1,17 @@
+# 云计算、容器与编排（Cloud Computing, Containers, and Orchestration）
+
+## 中文导读（Chinese Guide）
+
+云计算提供按需的远程基础设施和服务，通常分为基础设施、平台和软件服务。HPC 提供共享集群和统一调度；云平台强调隔离、弹性扩展和按量计费。
+
+虚拟机包含完整客户操作系统；容器共享宿主机内核并打包应用及依赖。容器可提升可移植性，但应固定不可变镜像版本，并将原始数据只读挂载。
+
+Kubernetes 可在集群上编排容器化工作负载，但会增加运维复杂度。生命科学应用还必须评估数据传输、费用、隐私、司法管辖、访问控制和托管服务变化对复现性的影响。
+
+---
+
+## 英文原文（Original English）
+
 # Cloud Computing, Containers, and Orchestration
 
 ## Cloud model
