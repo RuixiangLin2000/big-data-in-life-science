@@ -24,3 +24,7 @@
 ## 学习方法（Study method）
 
 每个主题都准备一个定义、一个生命科学实例、一个权衡和一个失败模式。（For every topic, prepare a definition, a life-science example, a tradeoff, and one failure mode.）
+
+## 回忆题入口（Recalled-question archive）
+
+- [2026 年 6 月考试回忆题（June 2026 Recalled Exam Questions）](../exams/2026-june-recalled-questions.md)：根据考后回忆整理，明确区分较可靠内容与不完整推测。（Reconstructed from post-exam memory, with relatively reliable content separated from incomplete speculation.）
