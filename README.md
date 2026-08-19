@@ -11,6 +11,7 @@
 - [作业学习指南（Assignment Study Guides）](assignments/README.md)
 - [Seminar 阅读指南（Seminar Reading Guides）](seminars/README.md)
 - [考试复习（Exam-Oriented Review）](notes/13-exam-review.md)
+- [2026 年 6 月考试回忆题（June 2026 Recalled Exam Questions）](exams/2026-june-recalled-questions.md)
 - [资料覆盖审计（Material Coverage Audit）](coverage-audit.md)
 - [术语表（Glossary）](glossary.md)
 - [学习资源（Resources）](resources.md)
@@ -34,6 +35,7 @@ An anonymized, structured knowledge base derived from course material on computa
 - [Assignment study guides](assignments/README.md)
 - [Seminar reading guides](seminars/README.md)
 - [Exam-oriented review](notes/13-exam-review.md)
+- [June 2026 recalled exam questions](exams/2026-june-recalled-questions.md)
 - [Material coverage audit](coverage-audit.md)
 - [Glossary](glossary.md)
 - [Resources](resources.md)
@@ -64,6 +66,7 @@ The repository explains objectives and study concepts without publishing student
 - `notes/` — topic-based course notes
 - `assignments/` — anonymized assignment objectives and checklists
 - `seminars/` — anonymized reading and discussion guides
+- `exams/` — anonymized, unofficial recalled questions with confidence labels
 - `coverage-audit.md` — supplied and remaining material
 - `glossary.md` — terminology
 - `resources.md` — external learning resources
