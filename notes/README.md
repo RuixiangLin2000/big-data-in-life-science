@@ -16,5 +16,6 @@
 12. [高内涵成像（High-content imaging）](11-high-content-imaging.md)
 13. [用于显微成像的深度学习（Deep learning for microscopy）](12-deep-learning.md)
 14. [考试复习（Exam-oriented review）](13-exam-review.md)
+15. [两天冲刺复习笔记（Two-day crash review notes）](14-two-day-crash-review.md)
 
 有关已提供、已覆盖和仍缺少的课程组成，请参阅[资料覆盖审计（material coverage audit）](../coverage-audit.md)。（See the [material coverage audit](../coverage-audit.md) for supplied, covered, and likely missing course components.）
