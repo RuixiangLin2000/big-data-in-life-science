@@ -220,3 +220,7 @@ Nextflow 用 process 描述独立计算步骤，用 channel 在步骤之间传�
 10. 信息整合与知识合成有什么区别？（What is the difference between information aggregation and knowledge synthesis?）
 
 全部能在 60–90 秒内清楚回答，才算真正掌握。（You have genuinely mastered the material only when each question can be answered clearly within 60–90 seconds.）
+
+## 综合自测题库（Comprehensive self-test bank）
+
+完成本页复习后，使用[综合自测题与参考答案（comprehensive self-test with answers）](../exams/comprehensive-self-test-with-answers.md)进行闭卷检查。（After reviewing this page, use the [comprehensive self-test with answers](../exams/comprehensive-self-test-with-answers.md) for closed-book assessment.）
